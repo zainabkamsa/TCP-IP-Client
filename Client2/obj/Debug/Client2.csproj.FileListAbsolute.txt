@@ -1,0 +1,14 @@
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.csprojAssemblyReference.cache
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.Form1.resources
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.Properties.Resources.resources
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.csproj.GenerateResource.cache
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.csproj.CoreCompileInputs.cache
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\Client2.exe.config
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\Client2.exe
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\Client2.pdb
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\SimpleTCP.dll
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\SimpleTCPServer.dll
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\bin\Debug\SimpleTCPServer.xml
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.csproj.CopyComplete
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.exe
+E:\M.G\Test\20-6-TCP IP CLIENT\Client2\obj\Debug\Client2.pdb
