@@ -12,12 +12,13 @@ namespace _20_6_TCP_IP_CLIENT
         }
 
         SimpleTcpServer server;
+
         private void Form1_Load(object sender, EventArgs e)
         {
             {
                 server = new SimpleTcpServer();
-                server.Delimiter = 0x13;//enter
-                server.StringEncoder = Encoding.UTF8;
+                server.Delimiter = 0x13; //enter
+                server.StringEncoder = Encoding.UTF8; 
                 server.DataReceived += Server_DataReceived;
             }
             

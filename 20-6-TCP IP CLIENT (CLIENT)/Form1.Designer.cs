@@ -36,6 +36,7 @@
             this.txtMessage = new System.Windows.Forms.TextBox();
             this.btnSend = new System.Windows.Forms.Button();
             this.txtStatus = new System.Windows.Forms.TextBox();
+            this.startNegotiationButton = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // txtPort
@@ -112,11 +113,22 @@
             this.txtStatus.TabIndex = 13;
             this.txtStatus.TextChanged += new System.EventHandler(this.TxtStatus_TextChanged);
             // 
+            // startNegotiationButton
+            // 
+            this.startNegotiationButton.Location = new System.Drawing.Point(635, 324);
+            this.startNegotiationButton.Name = "startNegotiationButton";
+            this.startNegotiationButton.Size = new System.Drawing.Size(134, 23);
+            this.startNegotiationButton.TabIndex = 14;
+            this.startNegotiationButton.Text = "Start Negotiation";
+            this.startNegotiationButton.UseVisualStyleBackColor = true;
+            this.startNegotiationButton.Click += new System.EventHandler(this.startNegotiationButton_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.startNegotiationButton);
             this.Controls.Add(this.txtStatus);
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.txtMessage);
@@ -142,6 +154,7 @@
         private System.Windows.Forms.TextBox txtMessage;
         private System.Windows.Forms.Button btnSend;
         private System.Windows.Forms.TextBox txtStatus;
+        private System.Windows.Forms.Button startNegotiationButton;
     }
 }
 

@@ -2,6 +2,7 @@
 using SimpleTCP;
 using System.Text;
 using System.Windows.Forms;
+using System.Collections.Generic;
 
 namespace _20_6_TCP_IP_CLIENT__CLIENT_
 {
@@ -13,6 +14,11 @@ namespace _20_6_TCP_IP_CLIENT__CLIENT_
         }
 
         SimpleTcpClient client;
+
+        private List<string> cipherSuites = new List<string>()
+            { "RSA", "AES", "DH" };
+
+
         private void Form1_Load(object sender, EventArgs e)
         {
             client = new SimpleTcpClient();
@@ -60,6 +66,15 @@ namespace _20_6_TCP_IP_CLIENT__CLIENT_
         private void TxtStatus_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void startNegotiationButton_Click(object sender, EventArgs e)
+        {
+            var guid = Guid.NewGuid().ToString();
+            var next = new Random().Next(224);
+            var byteValue = Convert.ToByte(next);
+            var clientRandom = Encoding.ASCII.GetString(new byte[] { byteValue });
+            txtStatus.Text = clientRandom + guid;
         }
     }
 }

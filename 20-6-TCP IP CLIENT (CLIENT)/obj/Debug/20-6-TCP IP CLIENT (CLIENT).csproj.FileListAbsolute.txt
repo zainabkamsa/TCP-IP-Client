@@ -10,3 +10,15 @@ E:\M.G\Test\20-6-TCP IP CLIENT\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP
 E:\M.G\Test\20-6-TCP IP CLIENT\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).exe
 E:\M.G\Test\20-6-TCP IP CLIENT\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).pdb
 E:\M.G\Test\20-6-TCP IP CLIENT\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).csprojAssemblyReference.cache
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\bin\Debug\20-6-TCP IP CLIENT (CLIENT).exe.config
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\bin\Debug\20-6-TCP IP CLIENT (CLIENT).exe
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\bin\Debug\20-6-TCP IP CLIENT (CLIENT).pdb
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\bin\Debug\SimpleTCP.dll
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).csproj.AssemblyReference.cache
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\_20_6_TCP_IP_CLIENT__CLIENT_.Form1.resources
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\_20_6_TCP_IP_CLIENT__CLIENT_.Properties.Resources.resources
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).csproj.GenerateResource.cache
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).csproj.CoreCompileInputs.cache
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).csproj.CopyComplete
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).exe
+C:\Users\Wael\Source\Repos\TCP-IP-Client\20-6-TCP IP CLIENT (CLIENT)\obj\Debug\20-6-TCP IP CLIENT (CLIENT).pdb
